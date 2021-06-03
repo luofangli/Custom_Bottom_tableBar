@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--在xml里面配置的只是只有一层关系的属性-->
+    <declare-styleable name="TableBar">
+        <attr name="number" format="integer|reference"/>
+    </declare-styleable>
+</resources>
